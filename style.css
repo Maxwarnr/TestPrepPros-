@@ -404,10 +404,11 @@ grid-template-columns:1fr 1fr;
 grid-template-areas:
 "section fig1";
 }
-}
+
 .nestedgrid2{
 display:grid;
 grid-template-columns:1fr 1fr;
 grid-template-areas:
 "div1 div2"
 }
+}		
